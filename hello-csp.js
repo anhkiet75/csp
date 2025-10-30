@@ -1,1 +1,6 @@
-alert("Hello CSP!");
+(function() {
+function printHelloWorld()
+{
+    alert('Hello world');
+}
+})();
